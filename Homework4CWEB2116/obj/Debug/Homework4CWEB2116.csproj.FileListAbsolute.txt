@@ -1,0 +1,13 @@
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\bin\Debug\Homework4CWEB2116.exe.config
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\bin\Debug\Homework4CWEB2116.exe
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\bin\Debug\Homework4CWEB2116.pdb
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\obj\Debug\Homework4CWEB2116.csproj.AssemblyReference.cache
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\obj\Debug\Homework4CWEB2116.CRUD.resources
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\obj\Debug\Homework4CWEB2116.Login.resources
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\obj\Debug\Homework4CWEB2116.Properties.Resources.resources
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\obj\Debug\Homework4CWEB2116.csproj.GenerateResource.cache
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\obj\Debug\Homework4CWEB2116.csproj.CoreCompileInputs.cache
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\obj\Debug\Homework4CWEB2116.exe
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\obj\Debug\Homework4CWEB2116.pdb
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\obj\Debug\Homework4CWEB2116.InsertRecord.resources
+C:\Users\cassamp\source\repos\Homework4CWEB2116\Homework4CWEB2116\obj\Debug\Homework4CWEB2116.EditRecord.resources
